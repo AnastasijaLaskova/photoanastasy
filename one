@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anastasija Photography Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>photoanastasylv</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#portfolio">Portfolio</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Visions in Focus</h2>
+    <p>Capturing elegance, emotion, and detail — one frame at a time.</p>
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Photography is more than a hobby for me — it's how I see and connect with the world. Through my lens, I capture powerful, elegant machines and the quiet stories hidden in nature’s smallest details.</p>
+    <p>Every photograph I take is an attempt to communicate emotion and perspective without the need for words. Although my portfolio is still growing, each image represents a step toward my goal: turning my passion into a professional career in photography.</p>
+    <p class="signature">— Anastasija</p>
+  </section>
+
+  <section id="portfolio">
+    <h2>Portfolio</h2>
+    <h3>Sportcar</h3>
+    <div class="gallery">
+      <!-- Add <img src="images/sportcar1.jpg" alt="Sportcar"> etc. -->
+    </div>
+    <h3>Retrocar</h3>
+    <div class="gallery">
+      <!-- Add images -->
+    </div>
+    <h3>Interior and Tuning</h3>
+    <div class="gallery">
+      <!-- Add images -->
+    </div>
+    <h3>Other Work</h3>
+    <ul>
+      <li>Landscape</li>
+      <li>Food</li>
+      <li>Architecture</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:photoanastasylv@gmail.com">photoanastasylv@gmail.com</a></p>
+    <p>Instagram: <a href="https://instagram.com/photo_anastasy" target="_blank">@photo_anastasy</a></p>
+    <p>Location: Latvia</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Anastasija Photography</p>
+  </footer>
+</body>
+</html>
